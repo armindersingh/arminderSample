@@ -1,0 +1,28 @@
+{
+	"id": "5a98ec564f4fab533c50e604",
+	"name": "RatecardNew",
+	"startDate": "2018-07-23",
+	"endDate": "9999-12-31",
+	"status": "DRAFT",
+	"isMarkAsDelete": false,
+	"station": {
+		"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+		"code": "EVIT",
+		"displayCallLetter": "EVIT",
+		"marketName": "Hartford"
+	},
+	"ratecardTiers": [{
+		"id": "5a98ec564f4fab533c50e602",
+		"name": "Submit",
+		"sequence": 1,
+		"productPrices": null
+	}, {
+		"id": "5a98ec564f4fab533c50e603",
+		"name": "Close",
+		"sequence": 2,
+		"productPrices": null
+	}],
+	"lastPublishedDate": null,
+	"lastUpdatedDate": "2018-03-02T11:46:54.474",
+	"parentRatecardId": null
+}

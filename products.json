@@ -1,0 +1,565 @@
+{
+	"numberOfProducts": 24,
+	"response": [{
+		"productId": "5a93c71084fad715b15c91fa",
+		"productName": "Published Prod",
+		"firstTelecast": "01-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "04:00",
+			"endTime": "05:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9683784d82f12c141f25c1",
+		"productName": "Identical Group",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9692084d82f12c141f25c5",
+		"productName": "NINE Mins Product",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a967aa084fad72cadadb760",
+		"productName": "New Data",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a96775b4d82f12c141f25b2",
+		"productName": "New Prod",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": [{
+			"startDate": "02-06-2018",
+			"endDate": "02-06-2018"
+		}, {
+			"startDate": "02-13-2018",
+			"endDate": "02-13-2018"
+		}, {
+			"startDate": "02-20-2018",
+			"endDate": "02-20-2018"
+		}, {
+			"startDate": "03-05-2018",
+			"endDate": "03-11-2018"
+		}]
+	}, {
+		"productId": "5a93a3e084fad70ebe1013df",
+		"productName": "New Product Test",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9780b884fad72cadadb776",
+		"productName": "Same PRD",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a98e7af84fad76f698321b0",
+		"productName": "Test Product New NBC",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": [{
+			"startDate": "04-09-2018",
+			"endDate": "04-15-2018"
+		}]
+	}, {
+		"productId": "5a96756984fad72cadadb75d",
+		"productName": "Test Time Stamp",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a96583b4d82f126ad44044a",
+		"productName": "AutoPrd_RC1",
+		"firstTelecast": "03-05-2018",
+		"lastTelecast": null,
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "06:00",
+			"endTime": "06:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9914c54d82f1761e3a0a5f",
+		"productName": "Perf_product_five",
+		"firstTelecast": "04-01-2018",
+		"lastTelecast": "04-07-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9914c584fad77704a5cdda",
+		"productName": "Perf_product_four",
+		"firstTelecast": "04-01-2018",
+		"lastTelecast": "04-07-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9914c34d82f1761e3a0a4d",
+		"productName": "Perf_product_one",
+		"firstTelecast": "04-01-2018",
+		"lastTelecast": "04-07-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9914c44d82f1761e3a0a56",
+		"productName": "Perf_product_three",
+		"firstTelecast": "04-01-2018",
+		"lastTelecast": "04-07-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9914c384fad77704a5cdd1",
+		"productName": "Perf_product_two",
+		"firstTelecast": "04-01-2018",
+		"lastTelecast": "04-07-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a990ba04d82f172efb69f7b",
+		"productName": "product1",
+		"firstTelecast": "04-02-2018",
+		"lastTelecast": "04-07-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Morning",
+			"shortName": "EM",
+			"order": "1"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a9678df4d82f12c141f25b8",
+		"productName": "Product Test",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Daytime",
+			"shortName": "DY",
+			"order": "2"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": [{
+			"startDate": "06-04-2018",
+			"endDate": "06-10-2018"
+		}]
+	}, {
+		"productId": "5a97ee0884fad74881e45d35",
+		"productName": "Product Test For Demo",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Daytime",
+			"shortName": "DY",
+			"order": "2"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a95024e84fad728a60c030b",
+		"productName": "TestVisual3456",
+		"firstTelecast": "03-03-2018",
+		"lastTelecast": "07-29-2018",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Daytime",
+			"shortName": "DY",
+			"order": "2"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "07:00",
+			"endTime": "08:30"
+		}],
+		"hiatusDates": [{
+			"startDate": "04-05-2018",
+			"endDate": "04-05-2018"
+		}, {
+			"startDate": "04-12-2018",
+			"endDate": "04-12-2018"
+		}, {
+			"startDate": "04-19-2018",
+			"endDate": "04-19-2018"
+		}]
+	}, {
+		"productId": "5a9802404d82f147d5b21431",
+		"productName": "Test123",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early Fringe",
+			"shortName": "EF",
+			"order": "3"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": null
+	}, {
+		"productId": "5a94eaec4d82f118d3d91039",
+		"productName": "Product Test For New Fixs",
+		"firstTelecast": "01-01-2018",
+		"lastTelecast": "01-01-2019",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Early News",
+			"shortName": "EN",
+			"order": "4"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": [{
+			"startDate": "12-03-2018",
+			"endDate": "12-09-2018"
+		}]
+	}, {
+		"productId": "5a96919f84fad72cadadb76b",
+		"productName": "NINE Mins Product",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Specials",
+			"shortName": "SC",
+			"order": "12"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": [{
+			"startDate": "04-30-2018",
+			"endDate": "05-06-2018"
+		}]
+	}, {
+		"productId": "5a93ba324d82f110c81f5545",
+		"productName": "Kk Product",
+		"firstTelecast": "02-01-2018",
+		"lastTelecast": "07-29-2018",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Paid Programming",
+			"shortName": "PP",
+			"order": "13"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+			"startTime": "16:00",
+			"endTime": "16:30"
+		}],
+		"hiatusDates": [{
+			"startDate": "03-01-2018",
+			"endDate": "03-01-2018"
+		}, {
+			"startDate": "03-08-2018",
+			"endDate": "03-08-2018"
+		}, {
+			"startDate": "03-15-2018",
+			"endDate": "03-15-2018"
+		}, {
+			"startDate": "03-22-2018",
+			"endDate": "03-22-2018"
+		}, {
+			"startDate": "03-26-2018",
+			"endDate": "04-29-2018"
+		}, {
+			"startDate": "05-28-2018",
+			"endDate": "06-03-2018"
+		}]
+	}, {
+		"productId": "5a966d6a4d82f12c141f259b",
+		"productName": "NBC Prime Time News @6-7AM",
+		"firstTelecast": "01-01-2018",
+		"lastTelecast": "12-31-9999",
+		"station": {
+			"id": "vT8Xj4qhR_Ga0RUuyZkuew",
+			"name": "EVIT"
+		},
+		"primaryDayPart": {
+			"id": 1,
+			"name": "Paid Programming",
+			"shortName": "PP",
+			"order": "13"
+		},
+		"daysAndTime": [{
+			"daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+			"startTime": "06:00",
+			"endTime": "07:00"
+		}],
+		"hiatusDates": [{
+			"startDate": "02-19-2018",
+			"endDate": "02-25-2018"
+		}, {
+			"startDate": "05-14-2018",
+			"endDate": "05-20-2018"
+		}]
+	}]
+}
